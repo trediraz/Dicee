@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Dicee</string>
+    <string name="in_menu_button_tekst">Roll</string>
+    <string name="roll_one_dice_button">Roll 1 dice</string>
+    <string name="roll_two_dices_button">Roll 2 dice</string>
+    <string name="title" translatable="false">Dicee</string>
+    <string name="description">Choose the number of dice you want to roll:</string>
+    <string name="return_button">Return</string>
+</resources>

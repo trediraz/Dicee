@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="description">Wybierz iloma kośćmi chcesz rzucić:</string>
+    <string name="in_menu_button_tekst">Rzuć</string>
+    <string name="return_button">Wróć</string>
+    <string name="roll_one_dice_button">Rzuć 1 kośćią</string>
+    <string name="roll_two_dices_button">Rzuć 2 kośćmi</string>
+</resources>
